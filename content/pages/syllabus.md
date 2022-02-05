@@ -47,57 +47,496 @@ Students are expected to adhere to principles of academic honesty in their work.
 
 Grades will be calculated as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper 1 (5 pages) | 20% |
-| Paper 2 (5-7 pages) | 25% |
-| Paper 3 (10-12 pages) | 40% |
-|  {{< br >}}{{< br >}} Class participation: {{< br >}}{{< br >}} *   Reading response papers - 5%{{< br >}}*   Leading of class discussion - 5%{{< br >}}*   General participation in weekly discussions - 5% {{< br >}}{{< br >}}  | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1 (5 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 (5-7 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3 (10-12 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation:
+
+*   Reading response papers - 5%
+*   Leading of class discussion - 5%
+*   General participation in weekly discussions - 5%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please note that late papers will be penalized unless you have made prior arrangements with me for an extension.
 
 Course Schedule
 ---------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1. Introduction and problems of definition**{{< /td-colspan >}} |||
-| 1 | Course overview and introductory lecture | &nbsp; |
-| 2 | Discussion: defining _Technology_ and _Nature_ | &nbsp; |
-| {{< td-colspan 3 >}}**Week 2. Colonial American land use**{{< /td-colspan >}} |||
-| 3 | A brief history of ecological change in North America in the eighteenth century | &nbsp; |
-| 4 | Discussion | Reading response paper due |
-| {{< td-colspan 3 >}}**Week 3. Places and how we know them**{{< /td-colspan >}} |||
-| 5 | Discussion | Reading response paper due |
-| {{< td-colspan 3 >}}**Week 4. Industrial America in the countryside**{{< /td-colspan >}} |||
-| 6 | Imposing an industrial order on the antebellum landscape | &nbsp; |
-| 7 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 5. The aesthetics of the industrial landscape in antebellum America**{{< /td-colspan >}} |||
-| 8 |  {{< br >}}{{< br >}} "Devilish iron horse" and "Aeolian harp": artistic responses to industrialization {{< br >}}{{< br >}}  | Paper 1 due |
-| 9 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 6. Railroads and colonization**{{< /td-colspan >}} |||
-| 10 |  {{< br >}}{{< br >}} View film: [_The Iron Road_](http://www.pbs.org/wgbh/amex/iron/). Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min. {{< br >}}{{< br >}}  | Final paper topic due |
-| 11 | Discussion | Reading response paper due |
-| {{< td-colspan 3 >}}**Week 7. Making an agricultural landscape**{{< /td-colspan >}} |||
-| 12 |  {{< br >}}{{< br >}} View films: _The Plow That Broke the Plains_. Directed by Pare Lorentz, 1936, 25 min). ([View and download](http://www.archive.org/details/plow_that_broke_the_plains) at the Internet Archive.) {{< br >}}{{< br >}} _The River_. Directed by Pare Lorentz, 1938, 31 min. (View and download ([Part 1](http://www.archive.org/details/RiverThe1937), [Part 2](http://www.archive.org/details/RiverThe1937_2)) at the Internet Archive.) {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Discussion | Reading response paper due |
-| {{< td-colspan 3 >}}**Week 8. Technological systems and the transformation of time and space in the late nineteenth century**{{< /td-colspan >}} |||
-| 14 | Networking nation and nature: a case study of weather telegraphy, 1870-1891 | &nbsp; |
-| 15 | Discussion | Reading response paper due |
-| {{< td-colspan 3 >}}**Week 9. Creating American parklands**{{< /td-colspan >}} |||
-| 16 | Conservation and the scientific management of nature | Paper 2 due |
-| 17 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 10. Water and the hydraulic society**{{< /td-colspan >}} |||
-| 18 | View film [_Cadillac Desert_](http://www.imdb.com/title/tt0118279/). Directed by Jon Else and Linda Harrar, 1997, 60 min. | &nbsp; |
-| 19 | Discussion | Reading response paper due |
-| {{< td-colspan 3 >}}**Week 11. Labors of and in nature: rivers, energy, and work**{{< /td-colspan >}} |||
-| 20 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 12. The landscape of postwar suburbia**{{< /td-colspan >}} |||
-| 21 | Levittown and the building of the suburban family ideal | Draft of final paper due |
-| 22 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 13. The landscape of food**{{< /td-colspan >}} |||
-| 23 | How food became fast, or, industrial agriculture in the twentieth century | &nbsp; |
-| 24 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 14. Presentations of student research projects**{{< /td-colspan >}} |||
-| 25 | Student presentations | &nbsp; |
-| 26 | Student presentations (cont.) | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1. Introduction and problems of definition**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course overview and introductory lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: defining _Technology_ and _Nature_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2. Colonial American land use**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+A brief history of ecological change in North America in the eighteenth century
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3. Places and how we know them**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4. Industrial America in the countryside**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Imposing an industrial order on the antebellum landscape
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5. The aesthetics of the industrial landscape in antebellum America**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Devilish iron horse" and "Aeolian harp": artistic responses to industrialization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6. Railroads and colonization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+View film: [_The Iron Road_](http://www.pbs.org/wgbh/amex/iron/). Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7. Making an agricultural landscape**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+View films: _The Plow That Broke the Plains_. Directed by Pare Lorentz, 1936, 25 min). ([View and download](http://www.archive.org/details/plow_that_broke_the_plains) at the Internet Archive.)
+
+_The River_. Directed by Pare Lorentz, 1938, 31 min. (View and download ([Part 1](http://www.archive.org/details/RiverThe1937), [Part 2](http://www.archive.org/details/RiverThe1937_2)) at the Internet Archive.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8. Technological systems and the transformation of time and space in the late nineteenth century**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Networking nation and nature: a case study of weather telegraphy, 1870-1891
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9. Creating American parklands**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation and the scientific management of nature
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10. Water and the hydraulic society**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+View film [_Cadillac Desert_](http://www.imdb.com/title/tt0118279/). Directed by Jon Else and Linda Harrar, 1997, 60 min.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11. Labors of and in nature: rivers, energy, and work**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12. The landscape of postwar suburbia**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Levittown and the building of the suburban family ideal
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13. The landscape of food**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+How food became fast, or, industrial agriculture in the twentieth century
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14. Presentations of student research projects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
