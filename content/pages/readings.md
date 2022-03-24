@@ -403,9 +403,9 @@ Discussion
 {{< tdopen >}}
 
 
-Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in _The Fight for Conservation_. New York, NY: Doubleday, Page & Co., 1910. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pinchot_1910)) ([Download complete work](http://www.gutenberg.org/etext/11238) from Project Gutenberg.)
+Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in _The Fight for Conservation_. New York, NY: Doubleday, Page & Co., 1910. ([PDF]({{< baseurl >}}/resources/pinchot_1910)) ([Download complete work](http://www.gutenberg.org/etext/11238) from Project Gutenberg.)
 
-Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in _Our National Parks_. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3 MB]({{< baseurl >}}/resources/muir_natlprk_ch1)) ([View and download the complete work](http://www.archive.org/details/nationalparksour00muirrich) from The Internet Archive.)
+Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in _Our National Parks_. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. ([PDF - 4.3 MB]({{< baseurl >}}/resources/muir_natlprk_ch1)) ([View and download the complete work](http://www.archive.org/details/nationalparksour00muirrich) from The Internet Archive.)
 
 Cronon, William. "The Trouble with Wilderness." In _Uncommon Ground: Toward Reinventing Nature_. Edited by William Cronon. New York, NY: W.W. Norton & Co., 1995, pp. 69-90. ISBN: 9780393038729.
 
