@@ -4,6 +4,7 @@ description: "Reading questions for Leo Marx, \u201CTechnology: The Emergence of
   \ Hazardous Concept\u201D and Raymond Williams, \u201CIdeas of Nature.\u201D"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c3a410ac2eca717b8d972b15a60f79f_quest1.pdf
 file_type: application/pdf
+parent_uid: 1c1ea490-92fb-3923-615a-e5d6a5906671
 resourcetype: Document
 title: Week 1 Reading Questions
 uid: 9c3a410a-c2ec-a717-b8d9-72b15a60f79f

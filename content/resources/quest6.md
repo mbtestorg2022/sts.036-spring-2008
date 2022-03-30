@@ -4,6 +4,7 @@ description: "Reading questions for Cronon, Nature\u2019s Metropolis (Chapter 2:
   \ and Water), and Stilgoe, Metropolitan Corridor (Chapter 7: Depot)."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-036-technology-and-nature-in-american-history-spring-2008/f15a64891fdba04ce9cb1e0f40250bbd_quest6.pdf
 file_type: application/pdf
+parent_uid: 1c1ea490-92fb-3923-615a-e5d6a5906671
 resourcetype: Document
 title: Week 6 Reading Questions
 uid: f15a6489-1fdb-a04c-e9cb-1e0f40250bbd

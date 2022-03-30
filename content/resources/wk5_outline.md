@@ -5,6 +5,7 @@ description: "Lecture outline on artistic responses to industrialization, seeing
   \ and Henry D. Thoreau and the making of Walden."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-036-technology-and-nature-in-american-history-spring-2008/46419124c5f5710024f6ca08dd46712d_wk5_outline.pdf
 file_type: application/pdf
+parent_uid: c1fad04f-5145-511c-4858-d8dd29435ab4
 resourcetype: Document
 title: "\u201CDevilish iron horse\u201D and \u201CAeolian harp\u201D: Artistic Responses\
   \ to Industrialization"
